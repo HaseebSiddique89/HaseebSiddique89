@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Haseeb  
+# Hi, I'm Haseeb Siddique  
 
  **Python Developer | AI Engineer | Researcher | Tutor**  
 
