@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Haseeb  
 
-🚀 **Python Developer | AI Engineer | Business Automation Enthusiast**  
+🚀 **Python Developer | AI Engineer | Researcher | Tutor**  
 
 I specialize in building **AI-powered solutions**, backend systems, and IoT-integrated applications. From **automation tools** that streamline business workflows to **intelligent chatbots** and **computer vision projects**, I love turning ideas into impactful products.  
 
