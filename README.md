@@ -40,5 +40,5 @@ I specialize in building **AI-powered solutions**, backend systems, and IoT-inte
 - [Portfolio / GitHub](https://github.com/HaseebSiddique89)  
 - [LinkedIn](https://www.linkedin.com/in/haseeb-siddique-1b73b7229/)  
 - haseebsiddique825@gmail.com
-- 
+
 ---
